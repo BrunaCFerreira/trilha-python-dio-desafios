@@ -1,2 +1,2 @@
-# trilha-python-dio-sistema-banc-rio
+# trilha-python-dio-sistema-bancario
 Desafio de projeto: Criando um sistema bancário com Python
